@@ -1,4 +1,4 @@
-module hello.go
+module 1-Go
 
 go 1.24.1
 
